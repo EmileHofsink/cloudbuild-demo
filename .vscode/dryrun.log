@@ -1,0 +1,6 @@
+make all --dry-run --keep-going --print-directory
+make: Entering directory `/Users/emilehofsink/Code/cloudbuild-demo'
+make: Leaving directory `/Users/emilehofsink/Code/cloudbuild-demo'
+ 
+makefile:4: *** missing separator.  Stop.
+ 
